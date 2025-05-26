@@ -76,3 +76,5 @@ It contains no private or proprietary information.
 - Matplotlib
 - Scikit-learn
 - Python 3.10+
+
+The trained model (`.pth` file) is included and was trained entirely from scratch on synthetic data.
